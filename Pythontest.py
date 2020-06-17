@@ -1,0 +1,1 @@
+print("GOD IS ALWAYS GREAT!")
